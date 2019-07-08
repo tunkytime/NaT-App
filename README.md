@@ -1,4 +1,4 @@
-# Project-One (Destinations)
+# NaT App
 
 
 * Welcome to our U.S. Destinations site.
@@ -11,4 +11,4 @@
 
 * Creators: Josh Valdez, Hunter Davis, Alex Schaaf, and Phil Benson.
 
-Link to deployed page on GitHub: https://tubidge.github.io/Project-One/home.html
+Link to deployed page on GitHub: https://tubidge.github.io/NaT-App/home.html
